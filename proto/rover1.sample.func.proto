@@ -1,0 +1,6 @@
+// +> category = REQUEST
+package rover1.sample.func;
+import "rover1.sample.type.proto";
+// *> Code = 151
+message Call {
+}
